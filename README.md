@@ -24,6 +24,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=ffffff)
 ![ZOD](https://img.shields.io/badge/-ZOD-3e67b1?style=flat-square&logo=zod&logoColor=ffffff)
 ![NixOS](https://img.shields.io/badge/-NixOS-5277c3?style=flat-square&logo=nixos&logoColor=ffffff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=ffffff)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654ff0?style=flat-square&logo=webassembly&logoColor=ffffff)
@@ -60,6 +61,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-fca121?style=flat-square&logo=gitlab)
 ![Prettier](https://img.shields.io/badge/-Prettier-f7b93e?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=000000)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-ffcc01?style=flat-square&logo=clickhouse&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000000)
 ![Vitest](https://img.shields.io/badge/-Vitest-6e9f18?style=flat-square&logo=vitest&logoColor=ffffff)
 ![Gitea](https://img.shields.io/badge/-Gitea-609926?style=flat-square&logo=gitea&logoColor=ffffff)
@@ -72,59 +74,58 @@
 ---
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C381%20hrs%2036%20mins-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-🌆 Daytime                573 commits         █████████████░░░░░░░░░░░░   53.35 % 
-🌃 Evening                351 commits         ████████░░░░░░░░░░░░░░░░░   32.68 % 
-🌙 Night                  62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+🌞 Morning                88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+🌆 Daytime                573 commits         █████████████░░░░░░░░░░░░   53.35 %
+🌃 Evening                351 commits         ████████░░░░░░░░░░░░░░░░░   32.68 %
+🌙 Night                  62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Tuesday                  130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Wednesday                156 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Thursday                 150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Friday                   152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Saturday                 145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Sunday                   182 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Monday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 %
+Tuesday                  130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+Wednesday                156 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 %
+Thursday                 150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 %
+Friday                   152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 %
+Saturday                 145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Sunday                   182 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Taipei
 
-💬 Programming Languages: 
-Rust                     5 hrs 35 mins       ████████████░░░░░░░░░░░░░   46.61 % 
-JavaScript               1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-JSON                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+💬 Programming Languages:
+Rust                     5 hrs 35 mins       ████████████░░░░░░░░░░░░░   46.61 %
+JavaScript               1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+JSON                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 
-🔥 Editors: 
-VS Code                  11 hrs 59 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  11 hrs 59 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Rust** 
+**I Mostly Code in Rust**
 
 ```text
-Rust                     20 repos            ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-TypeScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Nix                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Rust                     20 repos            ███████░░░░░░░░░░░░░░░░░░   29.85 %
+TypeScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   28.36 %
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Nix                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
+Last Updated on 06/07/2025 01:03:24 UTC
 
-
-
- Last Updated on 06/07/2025 01:03:24 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
