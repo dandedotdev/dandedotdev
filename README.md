@@ -6,7 +6,7 @@
 
 🧩 𝘿𝙚𝙨𝙞𝙜𝙣 𝙋𝙖𝙩𝙩𝙚𝙧𝙣𝙨 𝙋𝙧𝙖𝙘𝙩𝙞𝙩𝙞𝙤𝙣𝙚𝙧
 
-🦀 𝙍𝙪𝙨𝙩𝙖𝙘𝙚𝙖𝙣 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙇𝙤𝙫𝙚𝙧 | 🍰 𝙎𝙬𝙚𝙚𝙩 𝙏𝙤𝙤𝙩𝙝 | 🎞️ 𝙁𝙞𝙡𝙢 𝙋𝙝𝙤𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙚𝙧
+🦀 𝙍𝙪𝙨𝙩𝙖𝙘𝙚𝙖𝙣 | 🦊 𝙎𝙫𝙚𝙡𝙩𝙞𝙯𝙚𝙣𝙨 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙇𝙤𝙫𝙚𝙧 | 🍰 𝙎𝙬𝙚𝙚𝙩 𝙏𝙤𝙤𝙩𝙝 | 🎞️ 𝙁𝙞𝙡𝙢 𝙋𝙝𝙤𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙚𝙧
 
 ## Things I code with
 
@@ -15,7 +15,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=visual-studio-code)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=ffffff)
@@ -58,8 +58,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=ffffff)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-dd3a0a?style=flat-square&logo=postcss&logoColor=ffffff)
 ![Chromatic](https://img.shields.io/badge/-Chromatic-fc521f?style=flat-square&logo=chromatic&logoColor=ffffff)
+![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-fca121?style=flat-square&logo=gitlab)
-![Prettier](https://img.shields.io/badge/-Prettier-f7b93e?style=flat-square&logo=prettier&logoColor=ffffff)
+![Prettier](https://img.shields.io/badge/-Prettier-f7b93e?style=flat-square&logo=prettier&logoColor=000000)
 ![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=000000)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-ffcc01?style=flat-square&logo=clickhouse&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000000)
@@ -76,7 +77,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C537%20hrs%2023%20mins-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
@@ -84,7 +85,8 @@
 🌃 Evening                447 commits         █████████░░░░░░░░░░░░░░░░   36.02 % 
 🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
 Monday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
@@ -96,8 +98,7 @@ Saturday                 170 commits         ███░░░░░░░░�
 Sunday                   230 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Taipei
@@ -114,7 +115,7 @@ VS Code                  16 hrs 28 mins      ███████████�
 Cursor                   6 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.53 % 
 ```
 
-**I Mostly Code in Rust** 
+**I Mostly Code in Rust**
 
 ```text
 Rust                     20 repos            ███████░░░░░░░░░░░░░░░░░░   28.99 % 
@@ -123,9 +124,6 @@ JavaScript               9 repos             ███░░░░░░░░�
 CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 Nix                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
-
-
-
 
  Last Updated on 17/08/2025 00:58:05 UTC
 <!--END_SECTION:waka-->
