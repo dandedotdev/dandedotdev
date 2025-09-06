@@ -10,6 +10,7 @@
 
 ## Things I code with
 
+![Typst](https://img.shields.io/badge/-Typst-239dad?style=flat-square&logo=typst&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06b6d4?style=flat-square&logo=tailwind-css&logoColor=ffffff)
 ![React.js](https://img.shields.io/badge/-React.js-61dafb?style=flat-square&logo=react&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=ffffff)
@@ -26,6 +27,7 @@
 ![NixOS](https://img.shields.io/badge/-NixOS-5277c3?style=flat-square&logo=nixos&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=ffffff)
+![Material for MkDocs](https://img.shields.io/badge/-Material_for_MkDocs-526cfe?style=flat-square&logo=materialformkdocs&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=ffffff)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654ff0?style=flat-square&logo=webassembly&logoColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESLint-4b32c3?style=flat-square&logo=eslint)
