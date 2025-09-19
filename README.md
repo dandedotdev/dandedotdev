@@ -77,6 +77,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%2022%20mins-blue)
+
 **I Mostly Code in Rust** 
 
 ```text
@@ -90,7 +92,7 @@ Typst                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2025 00:59:03 UTC
+ Last Updated on 19/09/2025 01:00:49 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
