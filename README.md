@@ -77,22 +77,20 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%2022%20mins-blue)
-
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     22 repos            ████████░░░░░░░░░░░░░░░░░   30.56 % 
-TypeScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Nix                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Rust                     23 repos            ████████░░░░░░░░░░░░░░░░░   31.51 % 
+TypeScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Nix                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 
 
 
- Last Updated on 19/09/2025 01:00:49 UTC
+ Last Updated on 20/09/2025 00:59:01 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
