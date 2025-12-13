@@ -62,6 +62,7 @@
 ![PostCSS](https://img.shields.io/badge/-PostCSS-dd3a0a?style=flat-square&logo=postcss&logoColor=ffffff)
 ![Chromatic](https://img.shields.io/badge/-Chromatic-fc521f?style=flat-square&logo=chromatic&logoColor=ffffff)
 ![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=ffffff)
+![Argo](https://img.shields.io/badge/-Argo-ef7b4d?style=flat-square&logo=argo&logoColor=ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-fca121?style=flat-square&logo=gitlab)
 ![Prettier](https://img.shields.io/badge/-Prettier-f7b93e?style=flat-square&logo=prettier&logoColor=000000)
 ![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=000000)
@@ -80,7 +81,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C736%20hrs%2059%20mins-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
@@ -88,7 +89,8 @@
 🌃 Evening                516 commits         █████████░░░░░░░░░░░░░░░░   35.25 % 
 🌙 Night                  63 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
 Monday                   219 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
@@ -100,8 +102,7 @@ Saturday                 188 commits         ███░░░░░░░░�
 Sunday                   269 commits         █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Taipei
@@ -117,7 +118,7 @@ JavaScript               34 mins             ██░░░░░░░░░�
 Cursor                   7 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Rust** 
+**I Mostly Code in Rust**
 
 ```text
 Rust                     24 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
@@ -126,9 +127,6 @@ JavaScript               10 repos            ███░░░░░░░░�
 Nix                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
-
-
-
 
  Last Updated on 13/12/2025 01:17:21 UTC
 <!--END_SECTION:waka-->
