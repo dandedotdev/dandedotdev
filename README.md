@@ -6,7 +6,7 @@
 
 🧩 𝘿𝙚𝙨𝙞𝙜𝙣 𝙋𝙖𝙩𝙩𝙚𝙧𝙣𝙨 𝙋𝙧𝙖𝙘𝙩𝙞𝙩𝙞𝙤𝙣𝙚𝙧
 
-🦀 𝙍𝙪𝙨𝙩𝙖𝙘𝙚𝙖𝙣 | 🦊 𝙎𝙫𝙚𝙡𝙩𝙞𝙯𝙚𝙣𝙨 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙇𝙤𝙫𝙚𝙧 | 🍰 𝙎𝙬𝙚𝙚𝙩 𝙏𝙤𝙤𝙩𝙝 | 🎞️ 𝙁𝙞𝙡𝙢 𝙋𝙝𝙤𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙚𝙧
+🦀 𝙍𝙪𝙨𝙩𝙖𝙘𝙚𝙖𝙣 | 🦊 𝙎𝙫𝙚𝙡𝙩𝙞𝙯𝙚𝙣𝙨 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙇𝙤𝙫𝙚𝙧 | 🍹 𝙆𝙤𝙢𝙗𝙪𝙘𝙝𝙖 𝘼𝙛𝙞𝙘𝙞𝙤𝙣𝙖𝙙𝙤 | 🍰 𝙎𝙬𝙚𝙚𝙩 𝙏𝙤𝙤𝙩𝙝 | 🎞️ 𝙁𝙞𝙡𝙢 𝙋𝙝𝙤𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙚𝙧
 
 ## Things I code with
 
@@ -14,6 +14,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06b6d4?style=flat-square&logo=tailwind-css&logoColor=ffffff)
 ![React.js](https://img.shields.io/badge/-React.js-61dafb?style=flat-square&logo=react&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=ffffff)
+![NextCloud](https://img.shields.io/badge/-NextCloud-8dd6f9?style=flat-square&logo=nextcloud)
 ![VS Code](https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=visual-studio-code)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css)
@@ -46,6 +47,7 @@
 ![Eleventy](https://img.shields.io/badge/-Eleventy-222222?style=flat-square&logo=eleventy&logoColor=ffffff)
 ![Linear](https://img.shields.io/badge/-Linear-222326?style=flat-square&logo=linear&logoColor=ffffff)
 ![CSS Modules](https://img.shields.io/badge/-CSS_Modules-000000?style=flat-square&logo=cssmodules&logoColor=ffffff)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=ffffff)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
 ![Remix](https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=ffffff)
@@ -62,7 +64,10 @@
 ![PostCSS](https://img.shields.io/badge/-PostCSS-dd3a0a?style=flat-square&logo=postcss&logoColor=ffffff)
 ![Chromatic](https://img.shields.io/badge/-Chromatic-fc521f?style=flat-square&logo=chromatic&logoColor=ffffff)
 ![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=ffffff)
+![Claude](https://img.shields.io/badge/-Claude-ff3e00?style=flat-square&logo=claude&logoColor=ffffff)
 ![Argo](https://img.shields.io/badge/-Argo-ef7b4d?style=flat-square&logo=argo&logoColor=ffffff)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-ef7b4d?style=flat-square&logo=cloudflare&logoColor=ffffff)
+![Grafana](https://img.shields.io/badge/-Grafana-ef7b4d?style=flat-square&logo=grafana&logoColor=ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-fca121?style=flat-square&logo=gitlab)
 ![Prettier](https://img.shields.io/badge/-Prettier-f7b93e?style=flat-square&logo=prettier&logoColor=000000)
 ![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=000000)
@@ -81,7 +86,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C737%20hrs%202%20mins-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
@@ -89,7 +94,8 @@
 🌃 Evening                517 commits         █████████░░░░░░░░░░░░░░░░   35.29 % 
 🌙 Night                  63 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
 Monday                   219 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
@@ -101,8 +107,7 @@ Saturday                 189 commits         ███░░░░░░░░�
 Sunday                   269 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Taipei
@@ -118,7 +123,7 @@ JavaScript               34 mins             ██░░░░░░░░░�
 Cursor                   7 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Rust** 
+**I Mostly Code in Rust**
 
 ```text
 Rust                     24 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
@@ -127,9 +132,6 @@ JavaScript               10 repos            ███░░░░░░░░�
 Nix                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
-
-
-
 
  Last Updated on 14/12/2025 01:21:45 UTC
 <!--END_SECTION:waka-->
