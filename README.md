@@ -42,6 +42,7 @@
 ![Styled Components](https://img.shields.io/badge/-styled--components-db7093?style=flat-square&logo=styledcomponents&logoColor=ffffff)
 ![Storybook](https://img.shields.io/badge/-Storybook-ff4785?style=flat-square&logo=storybook&logoColor=ffffff)
 ![Mermaid](https://img.shields.io/badge/-Mermaid-ff3670?style=flat-square&logo=mermaid&logoColor=ffffff)
+![Apache ECharts](https://img.shields.io/badge/-Apache_Echarts-aa344d?style=flat-square&logo=apacheecharts&logoColor=ffffff)
 ![Turborepo](https://img.shields.io/badge/-Turborepo-ff1E56?style=flat-square&logo=turborepo&logoColor=ffffff)
 ![Radix UI](https://img.shields.io/badge/-Radix_UI-161618?style=flat-square&logo=radixui&logoColor=ffffff)
 ![Eleventy](https://img.shields.io/badge/-Eleventy-222222?style=flat-square&logo=eleventy&logoColor=ffffff)
@@ -86,7 +87,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C750%20hrs%2024%20mins-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
@@ -94,7 +95,8 @@
 🌃 Evening                540 commits         █████████░░░░░░░░░░░░░░░░   35.86 % 
 🌙 Night                  64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
 Monday                   217 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
@@ -106,8 +108,7 @@ Saturday                 196 commits         ███░░░░░░░░�
 Sunday                   279 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Taipei
@@ -123,7 +124,7 @@ TSConfig                 8 mins              █░░░░░░░░░░�
 Cursor                   4 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Rust** 
+**I Mostly Code in Rust**
 
 ```text
 Rust                     24 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
@@ -132,9 +133,6 @@ JavaScript               10 repos            ███░░░░░░░░�
 Nix                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
-
-
-
 
  Last Updated on 27/12/2025 01:18:24 UTC
 <!--END_SECTION:waka-->
