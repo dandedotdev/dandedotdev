@@ -54,6 +54,7 @@
 ![Remix](https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcn/ui&logoColor=ffffff)
+![Tanstack](https://img.shields.io/badge/-Tanstack-000000?style=flat-square&logo=tanstack&logoColor=ffffff)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
 ![Adobe React Aria](https://img.shields.io/badge/-React_Aria-ff0000?style=flat-square&logo=adobe&logoColor=ffffff)
@@ -85,7 +86,7 @@
 ---
 
 <!--START_SECTION:waka-->
-**I Mostly Code in Rust** 
+**I Mostly Code in Rust**
 
 ```text
 Rust                     24 repos            ████████░░░░░░░░░░░░░░░░░   30.38 % 
@@ -94,9 +95,6 @@ JavaScript               10 repos            ███░░░░░░░░�
 Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
-
-
-
 
  Last Updated on 03/01/2026 01:09:58 UTC
 <!--END_SECTION:waka-->
