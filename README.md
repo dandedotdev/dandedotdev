@@ -86,60 +86,22 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C886%20hrs%2045%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                271 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-🌆 Daytime                963 commits         █████████████░░░░░░░░░░░░   50.68 % 
-🌃 Evening                597 commits         ████████░░░░░░░░░░░░░░░░░   31.42 % 
-🌙 Night                  69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   308 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Tuesday                  286 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Wednesday                231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Thursday                 302 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Friday                   286 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Saturday                 205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Sunday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Markdown                 3 hrs 20 mins       ██████████████░░░░░░░░░░░   54.16 % 
-Rust                     1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-YAML                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-TOML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-
-🔥 Editors: 
-Unknown Editor           5 hrs 35 mins       ███████████████████████░░   90.60 % 
-Zed                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C888%20hrs%2032%20mins-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               24 repos            ████████░░░░░░░░░░░░░░░░░   31.17 % 
-Rust                     19 repos            ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-JavaScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+TypeScript               24 repos            ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Rust                     17 repos            ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+JavaScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 
 
 
- Last Updated on 13/05/2026 01:48:20 UTC
+ Last Updated on 14/05/2026 01:47:18 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
