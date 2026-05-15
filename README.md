@@ -86,8 +86,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C888%20hrs%2032%20mins-blue?style=flat)
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -101,7 +99,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 01:47:18 UTC
+ Last Updated on 15/05/2026 01:44:31 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
