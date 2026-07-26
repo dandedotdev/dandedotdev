@@ -115,15 +115,15 @@ Sunday                   282 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 14 hrs 37 mins      ██████████████░░░░░░░░░░░   55.75 % 
-TypeScript               8 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.85 % 
-Diff                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Rust                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-HTML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Markdown                 14 hrs              ██████████████░░░░░░░░░░░   57.43 % 
+TypeScript               7 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.06 % 
+Diff                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Rust                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+HTML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 3 mins       ███████████████████████░░   91.71 % 
-Zed                      2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Claude Code              22 hrs 16 mins      ███████████████████████░░   91.35 % 
+Zed                      2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -139,7 +139,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 03:27:00 UTC
+ Last Updated on 26/07/2026 03:40:34 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
