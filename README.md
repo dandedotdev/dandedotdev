@@ -10,6 +10,7 @@
 
 ## Things I code with
 
+![Tauri](https://img.shields.io/badge/-Tauri-24c8d8?style=flat-square&logo=tauri&logoColor=ffffff)
 ![Typst](https://img.shields.io/badge/-Typst-239dad?style=flat-square&logo=typst&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06b6d4?style=flat-square&logo=tailwind-css&logoColor=ffffff)
 ![React.js](https://img.shields.io/badge/-React.js-61dafb?style=flat-square&logo=react&logoColor=ffffff)
