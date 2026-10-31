@@ -87,28 +87,28 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C276%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-449%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-453%20hrs%2028%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1405 commits        ████████░░░░░░░░░░░░░░░░░   30.68 % 
-🌆 Daytime                2462 commits        █████████████░░░░░░░░░░░░   53.77 % 
-🌃 Evening                642 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-🌙 Night                  70 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+🌞 Morning                1493 commits        ████████░░░░░░░░░░░░░░░░░   31.17 % 
+🌆 Daytime                2576 commits        █████████████░░░░░░░░░░░░   53.78 % 
+🌃 Evening                650 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+🌙 Night                  71 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   813 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Tuesday                  957 commits         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Wednesday                765 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Thursday                 853 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Friday                   684 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Saturday                 219 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Sunday                   288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Monday                   853 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Tuesday                  1003 commits        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Wednesday                805 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Thursday                 897 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Friday                   723 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Saturday                 220 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Sunday                   289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 ```
 
 
@@ -118,55 +118,56 @@ Sunday                   288 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 4 hrs 28 mins       ██████████████████████░░░   88.15 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Markdown                 4 hrs 24 mins       ████████████████░░░░░░░░░   62.38 % 
+Bash                     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 50 mins       ████████████████████████░   95.65 % 
-Zed                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Claude Code              6 hrs 47 mins       ████████████████████████░   96.11 % 
+Zed                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs (98.89%)
+⏱ AI Coding Time: 7 hrs (99.05%)
 
-✍️ 349 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,688 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,968,108 Input Tokens, 2,037,882 Output Tokens
+🔤 8,046,792 Input Tokens, 2,634,193 Output Tokens
 
-💵 $89.56 Estimated AI Cost This Week
+💵 $119.70 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 49 AI Prompts
+🧠 16 AI Sessions, 80 AI Prompts
 
-Opus                     347 lines           █████████████████████████   99.43 % 
-Fable                    2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Opus                     4,689 lines         █████████████████████████   100.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,577 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.29% of changed lines were hand-edited
+📚 Verbose Prompter — average 8,429 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               25 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
-Rust                     13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               25 repos            █████████░░░░░░░░░░░░░░░░   35.21 % 
+Rust                     13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 
 
 
- Last Updated on 30/10/2026 05:28:00 UTC
+ Last Updated on 31/10/2026 05:11:49 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
